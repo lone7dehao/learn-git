@@ -19,3 +19,5 @@ seventh-day-commit
 
 first-week-commit
       ↓
+second-week-commit
+      ↓
