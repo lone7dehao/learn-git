@@ -5,4 +5,5 @@ Descriptive learning git
 
 first-day-commit
       ↓
-	  
+second-day-commit
+      ↓
