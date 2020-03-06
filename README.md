@@ -16,3 +16,6 @@ fifth-day-commit
 sixth-day-commit
       ↓
 seventh-day-commit
+
+first-week-commit
+      ↓
